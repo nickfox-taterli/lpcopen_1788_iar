@@ -1,0 +1,5 @@
+# IAR Settings
+settings/*
+
+# IAR Debug Build
+Debug/*
