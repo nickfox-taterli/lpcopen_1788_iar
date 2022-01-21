@@ -70,7 +70,7 @@
                 </option>
                 <option>
                     <name>OGLastSavedByProductVersion</name>
-                    <state>9.20.1.43525</state>
+                    <state>9.20.2.43955</state>
                 </option>
                 <option>
                     <name>OGChipSelectEditMenu</name>
@@ -660,7 +660,7 @@
             <data>
                 <extensions></extensions>
                 <cmdline></cmdline>
-                <hasPrio>48</hasPrio>
+                <hasPrio>1</hasPrio>
                 <buildSequence>inputOutputBased</buildSequence>
             </data>
         </settings>
@@ -2192,6 +2192,9 @@
             </file>
             <file>
                 <name>$PROJ_DIR$\applications\lpc_core\lpc_chip\chip_17xx_40xx\pmu_17xx_40xx.c</name>
+            </file>
+            <file>
+                <name>$PROJ_DIR$\applications\lpc_core\lpc_chip\chip_17xx_40xx\pwm_17xx_40xx.c</name>
             </file>
             <file>
                 <name>$PROJ_DIR$\applications\lpc_core\lpc_chip\chip_17xx_40xx\ritimer_17xx_40xx.c</name>

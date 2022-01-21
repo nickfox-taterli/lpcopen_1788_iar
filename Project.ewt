@@ -2919,6 +2919,9 @@
                 <name>$PROJ_DIR$\applications\lpc_core\lpc_chip\chip_17xx_40xx\pmu_17xx_40xx.c</name>
             </file>
             <file>
+                <name>$PROJ_DIR$\applications\lpc_core\lpc_chip\chip_17xx_40xx\pwm_17xx_40xx.c</name>
+            </file>
+            <file>
                 <name>$PROJ_DIR$\applications\lpc_core\lpc_chip\chip_17xx_40xx\ritimer_17xx_40xx.c</name>
             </file>
             <file>
